@@ -1,0 +1,7 @@
+C:\Users\VULKAN\Desktop\udemy\AtmUyg\AtmUyg\bin\Debug\AtmUyg.exe.config
+C:\Users\VULKAN\Desktop\udemy\AtmUyg\AtmUyg\bin\Debug\AtmUyg.exe
+C:\Users\VULKAN\Desktop\udemy\AtmUyg\AtmUyg\bin\Debug\AtmUyg.pdb
+C:\Users\VULKAN\Desktop\udemy\AtmUyg\AtmUyg\obj\Debug\AtmUyg.csproj.AssemblyReference.cache
+C:\Users\VULKAN\Desktop\udemy\AtmUyg\AtmUyg\obj\Debug\AtmUyg.csproj.CoreCompileInputs.cache
+C:\Users\VULKAN\Desktop\udemy\AtmUyg\AtmUyg\obj\Debug\AtmUyg.exe
+C:\Users\VULKAN\Desktop\udemy\AtmUyg\AtmUyg\obj\Debug\AtmUyg.pdb
